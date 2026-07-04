@@ -1,10 +1,6 @@
-# 🏠 The Odin Project: Homepage Project
+# My FortPolio!
 
-This project is a homepage created as part of The Odin Project's curriculum that I fully personalized and turned into my portfolio. It serves as an exercise in building a foundational web page using HTML and CSS, with a focus on layout, semantic structure, and responsive design.
-
-## Live Demo
-
-
+Welcome! 
 
 ## Features
 
@@ -26,37 +22,3 @@ This project is a homepage created as part of The Odin Project's curriculum that
 - **CSS Animations and Transitions:** Creating smooth visual effects and transitions to enhance user engagement.
 - **JavaScript:** Implementing basic logic to handle user interactions.
 - **Web Accessibility (A11y):** Ensuring the webpage is usable by people with disabilities by following best practices for semantic HTML.
-
-
-## Getting Started
-
-  To get a local copy up and running, follow these steps:
-
-### Prerequisites
-
-  Make sure you have Node.js and npm installed on your computer.
-
-### Installation
-
-1. Clone the repository:
-   
-   ```bash
-    git clone https://github.com/JohnKelly-T/homepage.git
-   ```
-
-2. Navigate to directory:
-   
-   ```bash
-    cd homepage
-   ```
-
-3. Install dependencies:
-   
-   ```bash
-    npm install
-   ```
-4. Run Dev server:
-  
-   ```bash
-    npm run dev
-   ```
