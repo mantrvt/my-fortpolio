@@ -4,20 +4,13 @@ This project is a homepage created as part of The Odin Project's curriculum that
 
 ## Live Demo
 
-https://johnkelly.vercel.app/
+
 
 ## Features
 
 - **Responsive Layout:** The page is designed to adapt to different screen sizes, providing an optimal viewing experience on both desktop and mobile devices.
 - **Interactive Elements:** The page includes subtle animations and micro-interactions to provide a more engaging user experience.
-- **Dark/Light Mode Toggle:** Users can switch between a light and dark theme, showcasing the use of CSS variables and JavaScript for a personalized viewing experience.
-
-## Screenshots
-<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/2b4d1ab3-9ae8-4dd6-9514-c7eb0f5f2c47" />  
-<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/b70eae13-ba10-4d5e-a5cb-173c06a0b7b8" />  
-<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/fa8888ee-9f14-45d9-b0e9-0f4925e002ed" />  
-<img width="709" height="880" alt="image" src="https://github.com/user-attachments/assets/2ab03d63-a0ed-4ef1-ae3f-a161822e6e12" />  
-<img width="390" height="845" alt="image" src="https://github.com/user-attachments/assets/31a5b66e-9bdd-443c-882e-ceb246173ae3" />  
+- **Dark/Light Mode Toggle:** Users can switch between a light and dark theme, showcasing the use of CSS variables and JavaScript for a personalized viewing experience. 
 
 ## Technologies Used
 

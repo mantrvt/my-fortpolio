@@ -1,6 +1,6 @@
 import "./styles/reset.css";
 import "./styles/global.css";
-import Resume from "./john-kelly-cv.pdf";
+import Resume from "./17DDT23F1006-IMAN-RESUME.pdf";
 
 // variables for hiding and showing nav based on scroll
 let lastScrollPos = 0;
