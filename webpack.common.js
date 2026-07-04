@@ -14,21 +14,21 @@ module.exports = {
       meta: {
         "og:title": {
           property: "og:title",
-          content: "John Kelly | Web Developer Portfolio",
+          content: "Imannn | Bellooo! Welcome to my PortFolio.",
         },
         "og:description": {
           property: "og:description",
           content:
-            "Front-end developer with focus on building interactive and engaging digital experiences. See my latest web development projects.",
+            "IT studs, fsdjfowijfpek 4040 error!",
         },
         "og:image": {
           property: "og:image",
           content:
-            "https://raw.githubusercontent.com/JohnKelly-T/homepage/646b60eb92e62421aac6f873b0882477a87c566f/src/assets/img/og-image.png",
+            "https://github.com/mantrvt/my-fortpolio/blob/main/src/assets/img/homepage.png?raw=true",
         },
         "og:url": {
           property: "og:url",
-          content: "https://johnkelly-t.github.io/homepage/",
+          content: "",
         },
       },
     }),
